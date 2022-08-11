@@ -1,4 +1,4 @@
-View the project @ - https://binarysearchtreevisualizer.netlify.app/
+View this project @ - https://binarysearchtreevisualizer.netlify.app/
 
 # Getting Started with Create React App
 
